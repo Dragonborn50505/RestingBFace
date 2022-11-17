@@ -1,0 +1,17 @@
+C:\Users\allinggard.vincent\Desktop\Programering\RestingBFace\RestingBFace\bin\Debug\net6.0\RestingBFace.exe
+C:\Users\allinggard.vincent\Desktop\Programering\RestingBFace\RestingBFace\bin\Debug\net6.0\RestingBFace.deps.json
+C:\Users\allinggard.vincent\Desktop\Programering\RestingBFace\RestingBFace\bin\Debug\net6.0\RestingBFace.runtimeconfig.json
+C:\Users\allinggard.vincent\Desktop\Programering\RestingBFace\RestingBFace\bin\Debug\net6.0\RestingBFace.dll
+C:\Users\allinggard.vincent\Desktop\Programering\RestingBFace\RestingBFace\bin\Debug\net6.0\RestingBFace.pdb
+C:\Users\allinggard.vincent\Desktop\Programering\RestingBFace\RestingBFace\bin\Debug\net6.0\RestSharp.dll
+C:\Users\allinggard.vincent\Desktop\Programering\RestingBFace\RestingBFace\obj\Debug\net6.0\RestingBFace.csproj.AssemblyReference.cache
+C:\Users\allinggard.vincent\Desktop\Programering\RestingBFace\RestingBFace\obj\Debug\net6.0\RestingBFace.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\allinggard.vincent\Desktop\Programering\RestingBFace\RestingBFace\obj\Debug\net6.0\RestingBFace.AssemblyInfoInputs.cache
+C:\Users\allinggard.vincent\Desktop\Programering\RestingBFace\RestingBFace\obj\Debug\net6.0\RestingBFace.AssemblyInfo.cs
+C:\Users\allinggard.vincent\Desktop\Programering\RestingBFace\RestingBFace\obj\Debug\net6.0\RestingBFace.csproj.CoreCompileInputs.cache
+C:\Users\allinggard.vincent\Desktop\Programering\RestingBFace\RestingBFace\obj\Debug\net6.0\RestingBFace.csproj.CopyComplete
+C:\Users\allinggard.vincent\Desktop\Programering\RestingBFace\RestingBFace\obj\Debug\net6.0\RestingBFace.dll
+C:\Users\allinggard.vincent\Desktop\Programering\RestingBFace\RestingBFace\obj\Debug\net6.0\refint\RestingBFace.dll
+C:\Users\allinggard.vincent\Desktop\Programering\RestingBFace\RestingBFace\obj\Debug\net6.0\RestingBFace.pdb
+C:\Users\allinggard.vincent\Desktop\Programering\RestingBFace\RestingBFace\obj\Debug\net6.0\RestingBFace.genruntimeconfig.cache
+C:\Users\allinggard.vincent\Desktop\Programering\RestingBFace\RestingBFace\obj\Debug\net6.0\ref\RestingBFace.dll

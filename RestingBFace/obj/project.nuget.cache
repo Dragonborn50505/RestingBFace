@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "TDFceAW58VgdHNdRJlNFopOUiOE84/x0q+jNqfBM2imleRriFTiy4bejySPYTPldiDRutmnR/j7Ls0zw9y5LiQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\allinggard.vincent\\Desktop\\Programering\\RestingBFace\\RestingBFace\\RestingBFace.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\allinggard.vincent\\.nuget\\packages\\restsharp\\108.0.2\\restsharp.108.0.2.nupkg.sha512"
+  ],
+  "logs": []
+}
